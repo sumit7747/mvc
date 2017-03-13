@@ -48,7 +48,7 @@
                      <artifactId>hibernate-entitymanager</artifactId>
                       <version>5.2.5.Final</version>
               </dependency>
-              
+    <!--MYSQL Connector -->          
 <!--MYSQL Connector -->
         <dependency>  
                 <groupId>mysql</groupId>  
